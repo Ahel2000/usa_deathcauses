@@ -1,1 +1,1 @@
-# usa_deathcauses
+#A beginner level data analysis project wherein I explore the different causes of death in the United States. I am grateful to Dr.Ossama Embarak and his book on Data Analysis for getting me started in this project.
